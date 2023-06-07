@@ -1,0 +1,90 @@
+body 
+{
+
+  font-family: Arial, sans-serif;
+  margin: 20px;
+  background-image: linear-gradient(0, #f8ffd5 0, #e8ffd9 8.33%, #d8ffdb 16.67%, #c8ffdc 25%, #b9ffdc 33.33%, #aaffda 41.67%, #9df2d5 50%, #92e3cf 58.33%, #8ad6ca 66.67%, #84cbc4 75%, #7fc1c0 83.33%, #7cb9bc 91.67%, #7bb3b9 100%);
+}
+
+.navbar-nav .nav-link {
+  color: #2B2B2B;
+}
+
+-----------------
+
+.custom-search-input {
+  margin-left: 1500px;
+  background-color: #eaeaea;
+  border-color: #5B6B50;
+  color: #2B2B2B;
+}
+.btn-buscar {
+  margin-right: 40px;
+  background-color: #eaeaea;
+  border-color: #5B6B50;
+  color: #2B2B2B;
+}
+
+.btn-buscar:hover {
+  background-color: #ffffff31;
+}
+
+.metadatos-list {
+  display: none;
+}
+.btn-ver-mas {
+  margin: 4px;
+  width: 120px;
+  padding: -1rem -1rem;
+  height: 2rem;
+  border: 2px solid #5b6b5062;
+  background-color: #47454544;
+  transition: all 0.3s ease;
+  color: #2B2B2B;
+}
+.btn-ver-mas:hover {
+  background-color: #ffffff31;
+}
+
+h4 {
+  font-weight: bold;
+}
+
+--------------------------
+
+.card {
+  background-color: #61595921;
+}
+
+h2.text-center {
+  font-weight: bold;
+  margin-top: 30px;
+}
+
+#resumen .card-title {
+  font-weight: bold;
+}
+
+#resumen .card-subtitle {
+  color: #6c757d;
+  font-size: 14px;
+}
+
+#charts .col-md-6 {
+  margin-top: 30px;
+}
+
+#charts h2.text-center {
+  font-weight: bold;
+  margin-bottom: 15px;
+}
+
+
+#charts {
+  margin-top: 30px;
+}
+
+#charts .col-md-6 {
+  margin-bottom: 100px;
+}
+

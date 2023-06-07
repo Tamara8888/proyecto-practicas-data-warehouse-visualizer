@@ -1,0 +1,26 @@
+{
+    "name": "tamara/warehouse",
+    "autoload": {
+        "psr-4": {
+            "Practicas\\Warehouse\\": "src/"
+        },
+        "files": [
+        
+            "src/Comment.php",
+            "src/conexion.php",
+            "src/Data.php",
+            "src/Response.php",
+            "src/Root.php"
+        
+        ]
+        
+    },
+    
+    "authors": [
+        {
+            "name": "Tamara8888",
+            "email": "t8cursos@gmail.com"
+        }
+    ],
+    "require": {}
+}
